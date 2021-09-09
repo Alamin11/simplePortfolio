@@ -251,6 +251,9 @@ nav.nav-wrapper ul li a:hover {
 header .logo img {
   max-width: 100px;
 }
+.logo{
+  filter: white(100%);
+}
 
 /*PARALLAX PAGE STYLE START*/
 
